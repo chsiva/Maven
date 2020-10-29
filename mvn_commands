@@ -1,3 +1,4 @@
 mvn --version
+mvn package
 mvn clean compile. or mvn clean compile -DskipTests
 mvn clean install
